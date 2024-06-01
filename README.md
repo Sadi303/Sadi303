@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadi303&label=Profile%20views&color=0e75b6&style=flat" alt="sadi303" /> </p>
 
-<p align="left"> <a href="https://twitter.com/saadi303" target="blank"><img src="https://img.shields.io/twitter/follow/@saadi303?logo=twitter&style=for-the-badge" alt="@saadi303" /></a> </p>
+<p align="left"> <a href="https://twitter.com/saadi303" target="blank"><img src="https://img.shields.io/twitter/follow/saadi303?logo=twitter&style=for-the-badge" alt="saadi303" /></a> </p>
 
 - 🌱 I’m currently learning **Python, R, SQL | IBM Cognos Analytics | Microsoft Power BI | Excel | Machine Learning and AI**
 
-- 📝 I regularly write articles on [| Data Analyst | Data Scientist |](| Data Analyst | Data Scientist |)
+- 📝 I regularly write articles on | Data Analyst | Data Scientist |
 
 - 💬 Ask me about **Python, R, SQL | IBM Cognos Analytics | Microsoft Power BI | Excel | Machine Learning and AI**
 
 - 📫 How to reach me **Sadi303@gmail.com**
 
-- 📄 Know about my experiences [| Data Analyst | Data Scientist |](| Data Analyst | Data Scientist |)
+- 📄 Know about my experiences | Data Analyst | Data Scientist |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
